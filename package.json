@@ -7,8 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "angelicaRoy",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^27.5.1"
-  }
+  "license": "ISC"
+  
 }
